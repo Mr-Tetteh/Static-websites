@@ -1,0 +1,76 @@
+body{
+    text-align: center;
+    font-family: 'Ubuntu' ;  
+}
+h1 h2 h3 h4 h5 {
+    font-family: 'Montserrat', 'sans-serif'
+}
+.carousel-pics{
+    padding: ;
+}
+.carousel-testimonials{
+    padding: 3% 15%;
+}
+@media (min-width: 992px) {
+
+    .nav-menu a,
+    .nav-menu a:focus {
+      width: 56px;
+      .logo{
+        position: static;
+        transform: rotate(0deg);
+    }
+    }
+
+.navbar{
+    position: fixed;
+}
+.navbar-brand{
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.logo{
+    width: 50%;
+    transform: rotate(10deg);
+}
+#title{
+    background-color: #258494cf;
+    text-align: center;
+}
+
+/* our works */
+.works{
+    
+}
+#Our-Works{
+    background-color: #EEEE;
+    text-align: center;
+    padding: 3% 15%;
+}
+
+/* Testimonials */
+
+#Testimonials{
+    text-align: center;
+    background-color: #258494cf;
+    padding: 3% 15%;
+}
+/* Pricing */
+#Pricing{
+    text-align: center;
+    padding: 100px;  
+}
+.pricing-colum{
+    padding: 3% 2%;
+}
+
+/* contact */
+
+#contact{
+    text-align: center;
+    background-color:#258494cf;
+    padding: 3% 15%;
+}
+.icon{
+    margin: 1% 1%;
+}
